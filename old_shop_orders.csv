@@ -1,0 +1,37 @@
+id,order_date,product_names,quantities,total_cost,customer_name,customer_email,delivery_address,user_id
+1,2025-02-21 10:31:31,,,0.00,Кирилл,vapro.vav.123321@gmail.com,г. Санкт-Петербург,4ca1b1e1-ebf1-4845-bf40-a2fda3e05972
+2,2025-02-21 10:33:04,,,0.00,Кирилл,vapro.vav.123321@gmail.com,г. Санкт-Петербург,4ca1b1e1-ebf1-4845-bf40-a2fda3e05972
+3,2025-02-21 10:39:32,,,0.00,Кирилл,vapro.vav.123321@gmail.com,г. Санкт-Петербург,4ca1b1e1-ebf1-4845-bf40-a2fda3e05972
+4,2025-02-21 10:43:02,"9mice, Kai Angel - Heavy Metal2",2,156.00,Кирилл,vapro.vav.123321@gmail.com,г. Санкт-Петербург,4ca1b1e1-ebf1-4845-bf40-a2fda3e05972
+5,2025-02-21 10:45:34,"9mice, Kai Angel - Heavy Metal2",2,156.00,Кирилл,vapro.vav.123321@gmail.com,г. Санкт-Петербург,4ca1b1e1-ebf1-4845-bf40-a2fda3e05972
+6,2025-02-21 14:04:36,"9mice, Kai Angel - Heavy Metal2",1,78.00,Филиппов Владислав николаевич,psikrig@gmail.com,новочеремушкинская улица ,94cbf725-c9ce-478e-bc2e-a34ab5fc16d6
+7,2025-02-23 15:10:15,Skillet - Comatose,1,100.00,Михаил,aedkvh@mail.ru,Ивана Черных 109/4 кв 8,8f9897c7-3a1b-4d21-bcac-f0bd3afe14c3
+8,2025-02-23 15:11:30,Слава КПСС - Россия34,1,35.00,123,123123fasdf@naofl.rtry,123213,8f9897c7-3a1b-4d21-bcac-f0bd3afe14c3
+9,2025-02-24 04:44:50,ssshhhiiittt! - Последнее лето (Часть II),1,100.00,Jason,Jason@amail.ua,USA / New York / Nnnnnnn street 9,6f2680d3-74eb-491f-818e-cbe623050531
+10,2025-02-24 07:20:00,"PHARAOH - PHLORA, 9mice, Kai Angel - Heavy Metal2","1, 2",256.00,迈克尔*,aedgy.master@mail.ru,伊万Chernykh109/4kv8,8f9897c7-3a1b-4d21-bcac-f0bd3afe14c3
+11,2025-02-24 07:21:08,Saluki - BOLSHIE KURTKI,1,88.00,Mars,example@gmail.com,"г. Москва, Нежинская улица, 7",03fa91a6-3095-4a5b-a6e2-2c915b00d1c1
+12,2025-02-24 07:28:10,"Twenty One Pilots - Blurryface, Кино - Последний герой","1, 1",200.00,ывапролд,dsg@sdg,кваепнрл,6345e392-0f6c-4ed2-af11-3255d33300ca
+13,2025-02-24 08:06:23,"Saluki - WILD EA$T, Saluki - BOLSHIE KURTKI, CUPSIZE - Как испортить вечеринку?, 9mice, Kai Angel - Heavy Metal2","1, 1, 1, 1",339.00,Рустам,rmusaevdg5@gmail.com,Нахимовский проспект 21,eab37f89-c750-487a-98ad-aa7e1134d77a
+14,2025-02-24 08:20:04,"PHARAOH - PHLORA, Saluki - BOLSHIE KURTKI, CUPSIZE - Как испортить вечеринку?, Saluki - WILD EA$T, Вокруг Фонарного Столба - Видеоигры","1, 1, 1, 1, 1",461.00,Рустам,rmusaevdg5@gmail.com,"Улица Пушкина , дом 54",eab37f89-c750-487a-98ad-aa7e1134d77a
+15,2025-02-27 07:42:06,"9mice, Kai Angel - Heavy Metal2",1,78.00,Рамиль Халиков,rhalikov735@gmail.com,Ульяновск,d93c0fc7-32fe-4955-b47e-1509588b5043
+16,2025-02-27 07:44:22,"Saluki - BOLSHIE KURTKI, CUPSIZE - Как испортить вечеринку?, ssshhhiiittt! - Последнее лето (Часть I), 17 Seventeen, Sqwore - Как я провела лето","1, 1, 1, 1",357.00,Рамиль Халиков,rhalikov735@gmail.com,r333r3,d93c0fc7-32fe-4955-b47e-1509588b5043
+17,2025-02-27 07:46:55,"9mice, Kai Angel - Heavy Metal2",1,78.00,Впапа,alexseev45s@gmail.com,ЛАЗЩПОАВЗШПА,4a10f08c-86d8-45ad-a51a-0929e7c7fa00
+18,2025-02-27 07:53:09,Skillet - Comatose,1,100.00,Иванов Иван,ivan@gmail.com,asd,d263ab6b-9811-4455-8a0e-ab04cf771679
+19,2025-03-01 07:20:15,CUPSIZE - Как испортить вечеринку?,1,83.00,Pak Alexey,aleksejpak602@gmail.com,"Москва Крекшино 2я Заводская 134
+",0e9b72b6-fb10-41e1-87e1-9baba0032e2b
+20,2025-03-01 08:03:10,Слава КПСС - Россия34,1,35.00,asdcasdc,asdc@aasdf.com,asdc,9bc414ff-8737-404f-ae32-592f8f0d7c0e
+21,2025-03-01 08:27:21,"9mice, Kai Angel - Heavy Metal2",6,468.00,<script>alert('XSS');</script>,dsafdfa@fma.com,XZC,9bc414ff-8737-404f-ae32-592f8f0d7c0e
+22,2025-03-01 08:27:28,,,0.00,<script>alert('XSS');</script>,dsafdfa@fma.com,"<script>alert('XSS');</script>
+",9bc414ff-8737-404f-ae32-592f8f0d7c0e
+23,2025-03-01 08:49:45,,,0.00,<script>alert('XSS');</script>,asd@sd.com,"<script>alert('XSS');</script>
+",9bc414ff-8737-404f-ae32-592f8f0d7c0e
+24,2025-03-01 08:57:27,"9mice, Kai Angel - Heavy Metal2",3,234.00,<script>alert('XSS')</script>,sd@ad.cs,"<img src=""x"" onerror=""alert('XSS')"">
+",9bc414ff-8737-404f-ae32-592f8f0d7c0e
+25,2025-03-01 09:30:39,"9mice, Kai Angel - Heavy Metal2",1,78.00,лох ' or DROP DATABASE;,asdsad@fmasdf.com,asdfasdf,9bc414ff-8737-404f-ae32-592f8f0d7c0e
+26,2025-03-01 10:47:41,"9mice, Kai Angel - Heavy Metal2",1,78.00,Роман,Roman@mail.ru,Sec house / 234,8f9897c7-3a1b-4d21-bcac-f0bd3afe14c3
+27,2025-03-01 11:16:02,Слава КПСС - Россия34,1,35.00,azizbek,negr@mail.ru,aue,159c719c-67e6-4bda-90e1-f2f6ad40b50f
+28,2025-03-02 18:45:26,"9mice, Kai Angel - Heavy Metal2",1,78.00,Чистотин М Ю,aedqwgy.mwqaster@mail.ru,Iv Chernih,8f9897c7-3a1b-4d21-bcac-f0bd3afe14c3
+29,2025-03-03 05:50:46,"CUPSIZE - Как испортить вечеринку?, 9mice, Kai Angel - Heavy Metal2, Skillet - Comatose","1, 2, 1",339.00,Рамиль Халиков,rhalikov735@gmail.com,улица калатушкина,d93c0fc7-32fe-4955-b47e-1509588b5043
+30,2025-03-09 10:49:49,"9mice, Kai Angel - Heavy Metal2",1,78.00,Филиппов Владислав николаевич,isip_v.n.filippov@mpt.ru,sh,94cbf725-c9ce-478e-bc2e-a34ab5fc16d6
+31,2025-03-09 10:50:23,"Слава КПСС - Россия34, ssshhhiiittt! - Первая жизнь","1, 1",135.00,Филиппов Владислав николаевич,isip_v.n.filippov@mpt.ru,fd,94cbf725-c9ce-478e-bc2e-a34ab5fc16d6
+32,2025-03-15 08:35:00,,,0.00,sdfsdf,sefsdf@xdvxcv.com,sdfsdf,9bc414ff-8737-404f-ae32-592f8f0d7c0e

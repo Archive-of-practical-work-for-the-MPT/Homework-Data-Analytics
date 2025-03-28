@@ -1,0 +1,66 @@
+id,order_date,product_names,quantities,total_cost,customer_name,customer_email,delivery_address,user_id
+9,2025-02-21 09:45:42,CUPSIZE - Как испортить вечеринку?,1,83.00,Кирилл,vapro.vav.123321@gmail.com,г. Москва,4ca1b1e1-ebf1-4845-bf40-a2fda3e05972
+10,2025-02-21 09:46:14,ssshhhiiittt! - Первая жизнь,1,100.00,Кирилл,vapro.vav.123321@gmail.com,г. Москва,4ca1b1e1-ebf1-4845-bf40-a2fda3e05972
+11,2025-02-21 09:51:17,Saluki - BOLSHIE KURTKI,1,88.00,Кирилл,vapro.vav.123321@gmail.com,г. Москва,4ca1b1e1-ebf1-4845-bf40-a2fda3e05972
+12,2025-02-21 09:51:50,ssshhhiiittt! - Первая жизнь,1,100.00,Кирилл,vapro.vav.123321@gmail.com,г. Москва,4ca1b1e1-ebf1-4845-bf40-a2fda3e05972
+13,2025-02-21 10:27:42,Depeche Mode - Violator,1,100.00,Константинов Артур Олегович,isip_a.o.konstantinov@mpt.ru,"Москва, улица Ватутина дом 7 корпус 2 квартира 101",3d91e908-2346-4108-9be1-e5a581199485
+14,2025-02-21 10:27:58,Слава КПСС - Россия34,1,35.00,Константинов Артур Олегович,akonstantinov538@yandex.ru,"Москва, улица Ватутина дом 7 корпус 2 квартира 101",3d91e908-2346-4108-9be1-e5a581199485
+15,2025-02-21 10:28:12,"Saluki - BOLSHIE KURTKI, 9mice, Kai Angel - Heavy Metal2","1, 1",166.00,Константинов Артур Олегович,akonstantinov538@gmail.com,"Москва, улица Ватутина дом 7 корпус 2 квартира 101",3d91e908-2346-4108-9be1-e5a581199485
+16,2025-02-21 10:41:15,Слава КПСС - Россия34,1,35.00,heheheheheheheh,dddd@mail.ru,Москва,cb8886f6-fbfa-4502-b1b7-b421b606a425
+17,2025-02-21 10:42:17,Skillet - Comatose,1,100.00,Ивановь Иван,ivan@mail.com,улица. Черёмушки д.15,2119d8f7-8a3a-44cc-98e6-7fa3c6caf8e4
+18,2025-02-21 20:15:31,"ssshhhiiittt! - Вторая жизнь, Вокруг Фонарного Столба - Видеоигры, Twenty One Pilots - Blurryface","1, 1, 1",300.00,Федя,anna.kononova41@gmail.com,"г. Москва, Курский вокзал",5017004d-0ec0-4713-919c-e4937ba25242
+19,2025-02-22 08:27:33,"Слава КПСС - Россия34, 9mice, Kai Angel - Heavy Metal2","1, 1",113.00,Владислав,isip_v.s.sokolov@mpt.ru,"Московская область, Одинцовский район, п. Школьный, д. 6, кв. 37",49900668-c2b2-4c0a-a175-a2007a6ae6aa
+20,2025-02-22 08:45:22,Saluki - BOLSHIE KURTKI,1,88.00,artur Konst,isip_a.o.konstantinov@mpt.ru,ывыывыв,3d91e908-2346-4108-9be1-e5a581199485
+21,2025-02-22 09:28:59,Saluki - BOLSHIE KURTKI,1,88.00,Майк,timofey.alekseev@list.ru,МПТ ,7332edc5-5a07-40fd-a48e-b2b1ae529f77
+22,2025-02-22 18:39:49,"ssshhhiiittt! - Вторая жизнь, ssshhhiiittt! - Первая жизнь, ssshhhiiittt! - Последнее лето (Часть II), Arctic Monkeys - AM, 100 gecs - 1000 gecs","1, 1, 1, 1, 1",500.00,Ксения,isip_k.a.pankova@mpt.ru,ул. Мира кв.166,0dafa602-58a9-44c6-82e0-7e216098165a
+23,2025-02-23 19:05:53,Слава КПСС - Россия34,1,35.00,Леонид,isip_d.s.kirilov@mpt.ru,estrhrsetghrstg,ecbe2355-cae8-467d-a263-53d725556f8d
+24,2025-02-24 07:24:47,"CUPSIZE - Как испортить вечеринку?, 9mice, Kai Angel - Heavy Metal2","1, 1",161.00,Константинов Артур Олегович,akonstantinov538@yandex.ru,"Москва, улица Ватутина дом 7 корпус 2 квартира 101",3d91e908-2346-4108-9be1-e5a581199485
+25,2025-02-24 10:24:53,"Вокруг Фонарного Столба - Видеоигры, Twenty One Pilots - Blurryface","1, 1",200.00,Санек,a.sebezhko2017@yandex.ru,"Великий город Красногорск, Красногорская, 25",c3188202-5937-4e30-b1b1-8ad291f11935
+26,2025-02-24 10:26:04,"Слава КПСС - Россия34, Gone.Fludd - Одиночная психическая атака","1, 1",135.00,Семен,isip_a.k.nekrasova@mpt.ru,"Сургут, улица Островкого, 72",340dda07-407e-41b0-a07a-b86ad133d8c1
+27,2025-02-24 11:24:30,PHARAOH - PHLORA,1,100.00,Женя,dmitevgen19@mail.ru,"ул. Медынская, д14к1",54695333-a304-4256-a953-455a85204798
+28,2025-02-24 11:54:00,"Saluki - BOLSHIE KURTKI, 9mice, Kai Angel - Heavy Metal2","1, 1",166.00,yss,veseliy@gmail.com,mnmnn,a36dd203-81a1-4836-968f-8ed25ba1949e
+29,2025-02-24 12:49:00,"9mice, Kai Angel - Heavy Metal2, Skillet - Comatose, Twenty One Pilots - Blurryface","1, 1, 1",278.00,Михаил,isip_m.a.kvashnin@mpt.ru,Пятницкое Шоссе Дом 35 Корпус 1,f23c3ea8-2e47-4d54-bb20-22741c3a3c49
+30,2025-02-25 05:46:00,"9mice, Kai Angel - Heavy Metal2",1,78.00,Александра,isip_a.n.nikolaeva@mpt.ru,MOSCOW,7f80d82b-6eb6-4add-b86f-442c982a8775
+31,2025-02-25 08:23:24,"Saluki - WILD EA$T, Twenty One Pilots - Blurryface","1, 1",190.00,Курт,igor.glazkov.96@mail.ru,Улица рождественская 21к2 323,69d47a4f-bc0b-4f47-8df5-07a8276a1229
+32,2025-02-25 09:04:40,"ssshhhiiittt! - Первая жизнь, 17 Seventeen, Sqwore - Как я провела лето","1, 1",186.00,Константинов Артур Олегович,akonstantinov538@yandex.ru,"Москва, улица Ватутина дом 2 квартира 101",3d91e908-2346-4108-9be1-e5a581199485
+33,2025-02-25 09:39:14,CUPSIZE - Как испортить вечеринку?,1,83.00,Даня,isip_d.a.filimonov@mpt.ru,Крым,b30f0f89-40fa-4f8c-af0e-662dcbd36980
+34,2025-02-25 09:39:37,Saluki - BOLSHIE KURTKI,1,88.00,Даня,isip_d.a.filimonov@mpt.ru,масква,b30f0f89-40fa-4f8c-af0e-662dcbd36980
+35,2025-02-25 09:40:59,"Gone.Fludd - Одиночная психическая атака, Arctic Monkeys - AM, 9mice, Kai Angel - Heavy Metal2","1, 1, 1",278.00,Даня,isip_d.a.filimonov@mpt.ru,Санктпитирбурх,b30f0f89-40fa-4f8c-af0e-662dcbd36980
+36,2025-02-25 09:50:23,"The Cranberries - Something else, AC/DC - Power up, Arctic Monkeys - AM, Twenty One Pilots - Blurryface, Кино - Последний герой","1, 1, 2, 1, 1",600.00,Абобов Абоба,igor.glazkov.96@mail.ru,вцвс,69d47a4f-bc0b-4f47-8df5-07a8276a1229
+37,2025-02-25 09:50:31,"PHARAOH - PHLORA, CUPSIZE - Как испортить вечеринку?","1, 1",183.00,Даблю Максим,isip_m.e.yakshin@mpt.ru,КурскSigma,b30f0f89-40fa-4f8c-af0e-662dcbd36980
+38,2025-02-25 09:58:05,Saluki - BOLSHIE KURTKI,1,88.00,Даня,isip_d.a.filimonov@mpt.ru,масква,b30f0f89-40fa-4f8c-af0e-662dcbd36980
+39,2025-02-25 10:02:33,"Imagine Dragons - Night Visions, Слава КПСС - Россия34, 100 gecs - 1000 gecs, 9mice, Kai Angel - Heavy Metal2","2, 1, 1, 1",413.00,Кирилл Картавыш,isip_k.i.lashev@mpt.ru,Донбасс,b30f0f89-40fa-4f8c-af0e-662dcbd36980
+40,2025-02-25 20:17:46,"Saluki - BOLSHIE KURTKI, 17 Seventeen, Sqwore - Как я провела лето, Saluki - WILD EA$T","1, 1, 1",264.00,Инк,inkwii@gmail.com,"Россия, г. Ярославль, Весенняя ул., д. 12 кв.2",aa57e95b-8a21-4885-8af4-2e98fda2f8a6
+41,2025-02-25 20:19:20,"9mice, Kai Angel - Heavy Metal2, Imagine Dragons - Night Visions","1, 1",178.00,Василиса,vasilisa_gorova23@mail.ru,"Россия, г. Красногорск, Максима Горького ул., д. 14 кв.25",aa57e95b-8a21-4885-8af4-2e98fda2f8a6
+42,2025-02-26 08:10:39,"Слава КПСС - Россия34, The Cranberries - Something else, Imagine Dragons - Night Visions","1, 1, 1",235.00,Дарья,isip_d.v.demkina@mpt.ru,"ул. Проспект мира, д 34, к5",0810cb16-5f8f-4a0f-8ce3-7ac427ff39bc
+43,2025-02-26 10:44:49,Skillet - Comatose,1,100.00,Алексеева Карина Алексеевна,karina_alekseeva_2006@mail.ru,улица. Черёмушки д.15,2119d8f7-8a3a-44cc-98e6-7fa3c6caf8e4
+44,2025-02-26 17:12:39,"ssshhhiiittt! - Первая жизнь, ssshhhiiittt! - Вторая жизнь","1, 1",200.00,Федя,anna.kononova41@gmail.com,"г. Москва, Курский вокзал",5017004d-0ec0-4713-919c-e4937ba25242
+45,2025-02-26 19:18:21,CUPSIZE - Как испортить вечеринку?,1,83.00,ygtfr,gtfr@TFRD.EE,ygtfr,cc21a5d2-8478-4afe-a534-a241a67f6663
+46,2025-02-27 06:11:59,Skillet - Comatose,1,100.00,Катерина,katelol129ioi@gmail.com,На Думской,e47883d5-f904-4dac-8de1-ea7d0d5b8e58
+47,2025-02-27 06:12:56,Слава КПСС - Россия34,1,35.00,Слава Копейкин,kaatee.ri@gmail.com,Россия,e47883d5-f904-4dac-8de1-ea7d0d5b8e58
+48,2025-02-27 06:13:35,"9mice, Kai Angel - Heavy Metal2, Starset - Transmissions","1, 1",178.00,Алена,isip_a.a.gladkova@mpt.ru,Москва,cb8886f6-fbfa-4502-b1b7-b421b606a425
+49,2025-02-27 06:14:29,ssshhhiiittt! - Вторая жизнь,1,100.00,Классный альбом,katelol129ioi@gmail.com,емае,e47883d5-f904-4dac-8de1-ea7d0d5b8e58
+50,2025-02-27 06:20:39,"Skillet - Comatose, Imagine Dragons - Night Visions, Starset - Transmissions","1, 1, 1",300.00,Алексей Полежайковский,alexeydm2@gmail.com,"г. Одинцово, ул. Союзная 1В",e8510584-d41b-4b9a-9955-38c01dd8a788
+51,2025-02-27 07:51:52,"17 Seventeen, Sqwore - Как я провела лето, ssshhhiiittt! - Последнее лето (Часть II)","1, 1",186.00,ZAP,zaproxy@example.com,688 Zaproxy Ridge,
+52,2025-02-27 11:03:38,Слава КПСС - Россия34,1,35.00,Константинов Артур Олегович,akonstantinov538@yandex.ru,"Москва, улица Ватутина дом 7 корпус 2 квартира 101",3d91e908-2346-4108-9be1-e5a581199485
+53,2025-02-27 11:58:02,Saluki - WILD EA$T,1,90.00,виктория,viktoria9894@yandex.ru,Феодосийская ул. 7к6,9fbf78a5-eb60-4fb8-a03e-b5ffcd30439e
+54,2025-02-27 15:02:55,"100 gecs - 1000 gecs, 9mice, Kai Angel - Heavy Metal2","1, 1",178.00,Ксения,isip_k.a.pankova@mpt.ru,ул. Мира кв.166,0dafa602-58a9-44c6-82e0-7e216098165a
+55,2025-02-27 18:16:56,"Слава КПСС - Россия34, Gone.Fludd - Одиночная психическая атака","1, 1",135.00,Ast,isip_a.k.nekrasova@mpt.ru,ggggg,340dda07-407e-41b0-a07a-b86ad133d8c1
+56,2025-03-01 07:21:11,"Слава КПСС - Россия34, 9mice, Kai Angel - Heavy Metal2, ssshhhiiittt! - Последнее лето (Часть I)","1, 1, 1",213.00,wejsfj,awfeksdanj@asd,asfdasdds,34abcaf3-95ce-48ca-89c7-f80b87e19497
+57,2025-03-01 08:31:12,"Слава КПСС - Россия34, Saluki - BOLSHIE KURTKI, ssshhhiiittt! - Первая жизнь, Roxette - Look Sharp!, Imagine Dragons - Night Visions, Twenty One Pilots - Blurryface, Depeche Mode - Violator, PHARAOH - PHLORA, 9mice, Kai Angel - Heavy Metal2, CUPSIZE - Как испортить вечеринку?, ssshhhiiittt! - Вторая жизнь, The Cranberries - Something else, Arctic Monkeys - AM","1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1",1184.00,ZAP,zaproxy@example.com,688 Zaproxy Ridge,
+58,2025-03-02 18:46:26,The Cranberries - Something else,1,100.00,Чистотин М Ю,aeasfsdfdgy.massdfsdter@mail.ru,Ivana Chernih 109/4,8f9897c7-3a1b-4d21-bcac-f0bd3afe14c3
+59,2025-03-02 18:46:32,The Cranberries - Something else,1,100.00,Чистотин М Ю,aeasfsdfdgy.massdfsdter@mail.ru,Ivana Chernih 109/4,8f9897c7-3a1b-4d21-bcac-f0bd3afe14c3
+60,2025-03-02 18:46:34,The Cranberries - Something else,1,100.00,Чистотин М Ю,aeasfsdfdgy.massdfsdter@mail.ru,Ivana Chernih 109/4,8f9897c7-3a1b-4d21-bcac-f0bd3afe14c3
+61,2025-03-02 18:46:42,The Cranberries - Something else,1,100.00,Чистотин М Ю,aeasfsdfdgy.massdfsdter@mail.ru,Ivana Chernih 109/4,8f9897c7-3a1b-4d21-bcac-f0bd3afe14c3
+62,2025-03-03 09:06:18,Слава КПСС - Россия34,1,35.00,Ксения,isip_k.k.spiridonova@mpt.ru,Профсоюзная 73,b26c3de1-78f9-4fe7-a3dd-910551887d21
+63,2025-03-06 09:02:39,"CUPSIZE - Как испортить вечеринку?, ssshhhiiittt! - Вторая жизнь, Depeche Mode - Violator","1, 1, 1",283.00,Ксения,isip_k.k.spiridonova@mpt.ru,Профсоюзная 73,b26c3de1-78f9-4fe7-a3dd-910551887d21
+64,2025-03-09 11:42:59,Слава КПСС - Россия34,1,35.00,Ксения,isip_k.k.spiridonova@mpt.ru,Профсоюзная 73,b26c3de1-78f9-4fe7-a3dd-910551887d21
+65,2025-03-09 14:15:28,Saluki - BOLSHIE KURTKI,1,88.00,Ксения,isip_k.k.spiridonova@mpt.ru,Профсоюзная 73,b26c3de1-78f9-4fe7-a3dd-910551887d21
+66,2025-03-11 08:10:10,Слава КПСС - Россия34,1,35.00,Улугбек,cocojambo228@mail.ru,"уосьмой май, моськва",7bc9bce3-d233-4eda-a8a4-91d4fe08228b
+67,2025-03-11 08:12:37,Слава КПСС - Россия34,1,35.00,Улугбек,cocojambo228@mail.ru,уосьмой май моськва,7bc9bce3-d233-4eda-a8a4-91d4fe08228b
+68,2025-03-11 10:05:02,Twenty One Pilots - Blurryface,1,100.00,виктория,viktoria9894@yandex.ru,Феодосийская ул. 7к6,9fbf78a5-eb60-4fb8-a03e-b5ffcd30439e
+69,2025-03-12 16:02:37,100 gecs - 1000 gecs,1,100.00,Илья ,isip_i.a.pushkin@mpt.ru,Нежинская 7,c5077a34-ff42-4c40-8f02-48767ef2a499
+70,2025-03-13 07:56:37,Слава КПСС - Россия34,1,35.00,Мария,Gavrikova_sans@mail.ru,Улица Пушкина дом колотушкина,7e7c9b8c-fbf1-4657-9ca1-1f7fd8b9f73d
+71,2025-03-13 12:51:45,"9mice, Kai Angel - Heavy Metal2",1,78.00,Михаил,kvashnin-2005@mail.ru,Пятницкое Шоссе Дом 35 Корпус 1,ca50a8c6-f673-4e12-8457-24c4e7823c0e
+72,2025-03-15 08:22:39,,,0.00,dsfsdfsd,weqweqw@e.ru,dsfsdkmfskdfm,1584f20d-937d-4c92-bdcc-bc550e676560
+73,2025-03-20 20:27:05,Слава КПСС - Россия34,1,35.00,Kirill,vapro.vav.123321@gmail.com,Moscow,1584f20d-937d-4c92-bdcc-bc550e676560
